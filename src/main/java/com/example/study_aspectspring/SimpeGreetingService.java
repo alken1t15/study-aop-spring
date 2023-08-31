@@ -14,11 +14,11 @@ public class SimpeGreetingService implements GreetingService {
 
     @Override
     public String getGreetingAnnotated(String name) {
-        return null;
+        return "Alex";
     }
 
     @Override
     public String getGreeting(String result, String res) {
-        return null;
+        return "Water is small";
     }
 }

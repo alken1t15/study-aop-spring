@@ -6,6 +6,6 @@ public interface GreetingService {
 
     String getGreetingAnnotated(String name);
 
-    String getGreeting(String result,String res);
+    String getGreeting(String result, String res);
 
 }
